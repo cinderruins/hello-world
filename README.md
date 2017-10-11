@@ -1,2 +1,1 @@
-# hello-world
-Just a repository
+just a linguist in a programming world
